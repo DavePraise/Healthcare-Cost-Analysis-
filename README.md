@@ -9,7 +9,7 @@ This project analyzes synthetic healthcare claims data to identify major cost dr
 ## 🛠️ Tools Used
 - Python (Pandas, Seaborn, Matplotlib)
 - PostgreSQL (pgAdmin)
-- Power BI (for interactive dashboards)
+- Power BI (for interactive dashboard)
 
 ## 📊 Key Insights
 1. Outpatient visits were the top cost drivers, followed by inpatient visits
