@@ -12,27 +12,27 @@ This project analyzes synthetic healthcare claims data to identify major cost dr
 - Power BI (for interactive dashboards)
 
 ## 📊 Key Insights
-##1. Outpatient visits were the top cost drivers, followed by inpatient visits.
+1. Outpatient visits were the top cost drivers, followed by inpatient visits
 
   ![Cost By Service Type](Figure_1.png)
   
-##2. Orhtopedic claims contributed the most to healthcare costs
+2. Orthoopedic claims contributed the most to healthcare costs
 
   ![Cost by Provider Specialty](Figure_2.png)
 
-- Based on Patient Employment status, students accounted for the highest total healthcare claim amounts on average
+3. Based on Patient Employment status, students accounted for the highest total healthcare claim amounts on average
+   
   ![Average Cost based on Employment Status](Figure_3.png)
   
-- Patients aged 20-29 generated more healthcare spending than any other age group
-- Based on provider location, North America and Asia account for the highest total healthcare claim amounts
+4. Patients aged 20-29 generated more healthcare spending than any other age group (See dashboard)
+5. Based on provider location, North America and Asia account for the highest total healthcare claim amounts (See dashboard)
   
   ![Claims Analysis Dashboard](Dashboard.jpg)
 
 ## 📁 File Overview
-- `notebooks/healthcare_cost_analysis.ipynb` – Full code and analysis
-- `data/sample_claims.csv` – Cleaned dataset
-- `output/` – Exported plots
-- `dashboard.pbix` – Power BI dashboard 
+- `cost_analysis.py` – Full code and analysis
+- `claims_analysis.sql` – SQL Analysis
+- `Dashboard.pbix` – Power BI dashboard 
 
 ## 📝 Recommendations
 - Consider telehealth and preventive care options to reduce high-volume, high cost outpatient visits
