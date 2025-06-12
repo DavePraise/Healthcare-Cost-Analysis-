@@ -25,7 +25,7 @@ This project analyzes synthetic healthcare claims data to identify major cost dr
   ![Average Cost based on Employment Status](Figure_3.png)
   
 4. Patients aged 20-29 generated more healthcare spending than any other age group (See dashboard)
-5. Based on provider location, North America and Asia account for the highest total healthcare claim amounts (See dashboard)
+5. Based on provider location, North America and Europe account for the highest total healthcare claim amounts (See dashboard)
   
   ![Claims Analysis Dashboard](Dashboard.jpg)
 
