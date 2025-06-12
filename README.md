@@ -13,13 +13,13 @@ This project analyzes synthetic healthcare claims data to identify major cost dr
 
 ## 📊 Key Insights
 - Outpatient visits were the top cost drivers, followed by inpatient visits.
-  ![Cost By Service Type](figure_1.png)
+  ![Cost By Service Type](Figure_1.png)
 
 - Orhtopedic claims contributed the most to healthcare costs
-  ![Cost by Provider Specialty](figure_2.png)
+  ![Cost by Provider Specialty](Figure_2.png)
 
 - Based on Patient Employment status, students accounted for the highest total healthcare claim amounts on average
-  ![Average Cost based on Employment Status](figure_3.png)
+  ![Average Cost based on Employment Status](Figure_3.png)
   
 - Patients aged 20-29 generated more healthcare spending than any other age group
 - Based on provider location, North America and Asia account for the highest total healthcare claim amounts
